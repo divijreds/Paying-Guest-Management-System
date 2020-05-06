@@ -1,0 +1,2 @@
+# Paying-Guest-Management-System
+Paying Guest Management System is a GUI based application written in Java. It is developed such that it enables you to keep track of the various details of paying guests residing in a house. This application allows the admin to perform operations such as list, add, manage and remove records of guests from the database. To link the application with the database, JDBC driver is used. The project contains classes to implement its various aspects such as houses and guests.
